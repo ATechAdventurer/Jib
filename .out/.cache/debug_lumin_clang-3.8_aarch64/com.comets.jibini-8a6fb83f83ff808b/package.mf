@@ -1,0 +1,269 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "ad7de59ca66f113438518180f37d3ebe1bfb5ce1",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2656660,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "c32c9ad0f0ebf7ca76b603561c0a7029a394d267",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 32869928,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/milan/MagicLeap/riseofjibini.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "9ab8afbb12e0654dad690a0efb278f23ce3da6a2",
+   "xfrm_path": "/Users/milan/Documents/GitHub/Jib/.out/.cache/debug_lumin_clang-3.8_aarch64/com.comets.jibini-8a6fb83f83ff808b/libil2cpp.so-73ec9c6cd72063fb",
+   "xfrm_size": 32870686
+  },
+  {
+   "compression": 8,
+   "hash": "99be27c27e2af134a459a05f2240800e1a0eddd0",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 247376,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/milan/MagicLeap/riseofjibini.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4322631a557eaa2f41dfc5db273597ba7899e998",
+   "xfrm_path": "/Users/milan/Documents/GitHub/Jib/.out/.cache/debug_lumin_clang-3.8_aarch64/com.comets.jibini-8a6fb83f83ff808b/AudioPluginMSASpatializer.so-f559b0b4182a1e6e",
+   "xfrm_size": 248134
+  },
+  {
+   "compression": 8,
+   "hash": "e1d6a3392ecde066ea0cc34538e9839d8d87671d",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "c0a15a2993e1f9df9db7db864cb0c8f8fa94ca45",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/milan/MagicLeap/riseofjibini.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a53666f734f9c09e4ab7d8fdf3aadaf9812b1bf8",
+   "xfrm_path": "/Users/milan/Documents/GitHub/Jib/.out/.cache/debug_lumin_clang-3.8_aarch64/com.comets.jibini-8a6fb83f83ff808b/UnityMagicLeap.so-f559b0b4182a1e6e",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "2769affdc8da0f6923bee02d6928163c6d1ee44f",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/milan/MagicLeap/riseofjibini.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "63884a8f386138cc9fb60f3f276cac5dffb78b97",
+   "xfrm_path": "/Users/milan/Documents/GitHub/Jib/.out/.cache/debug_lumin_clang-3.8_aarch64/com.comets.jibini-8a6fb83f83ff808b/libml_camera_plugin.so-f559b0b4182a1e6e",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "d8be78bce4b9d6484096ddc11bbdaf7a8ea4da11",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 30528,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/milan/MagicLeap/riseofjibini.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "6c83f6ffcf077e33d0c943b514cd4a4dc59eb453",
+   "xfrm_path": "/Users/milan/Documents/GitHub/Jib/.out/.cache/debug_lumin_clang-3.8_aarch64/com.comets.jibini-8a6fb83f83ff808b/libml_mediaplayer_plugin.so-f559b0b4182a1e6e",
+   "xfrm_size": 31286
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "d64d56786d7a4729db4528511c0a1fafd44acc7b",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 293332,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "68b1c0f35873c7c1961005fa8c4db1e3f5fed6a4",
+   "pkgpath": "Data/boot.config",
+   "size": 200,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "ade5fa14347a8d1370c8e3f2b318f98144e963a2",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 32884,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "d03eb0317d7650295c02bb17da1324e5a49a0cfa",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 34596,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "a4b420475d682b2cf49efa2956984941eced6bde",
+   "pkgpath": "Data/level0",
+   "size": 21788,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "f78607c892eced5e61934e7ab2de8ccc7ea26643",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 2984844,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "b1dbd4418094637d0a4cdc254e0771c491c42050",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 2446704,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "35e9a1ff08c51a514a03e49cae8773f016072297",
+   "pkgpath": "bin/Player.elf",
+   "size": 30968064,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/milan/MagicLeap/riseofjibini.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7f51e1e47568f939cee2d42716cce2b99ce18e1d",
+   "xfrm_path": "/Users/milan/Documents/GitHub/Jib/.out/.cache/debug_lumin_clang-3.8_aarch64/com.comets.jibini-8a6fb83f83ff808b/Player.elf-cbd223dd8211a601",
+   "xfrm_size": 30968822
+  },
+  {
+   "compression": 8,
+   "hash": "85385aed2660cb87e3f6535e3adf4638424371ef",
+   "pkgpath": "manifest.xml",
+   "size": 757,
+   "src": "/Users/milan/Documents/GitHub/Jib/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "22f7a74567abc60e7506bb493af663ece4381e67",
+     "developer_id": "e7216d27-c9c5-451b-abd9-c1433fc5808e"
+    }
+   },
+   "xfrm_hash": "32e46325b3f9096fd15bcec38ea448731732a629",
+   "xfrm_path": "/Users/milan/Documents/GitHub/Jib/.out/.cache/debug_lumin_clang-3.8_aarch64/com.comets.jibini-8a6fb83f83ff808b/manifest.xml-cbd223dd8211a601",
+   "xfrm_size": 770
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/milan/MagicLeap/mlsdk/v0.17.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/milan/MagicLeap/riseofjibini.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "734a1152b0a6d6da70459cb797391cd0357aa850",
+   "xfrm_path": "/Users/milan/Documents/GitHub/Jib/.out/.cache/debug_lumin_clang-3.8_aarch64/com.comets.jibini-8a6fb83f83ff808b/libc++_shared.so-b1ee1bede07e1fe3",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/milan/MagicLeap/riseofjibini.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "/Users/milan/MagicLeap/riseofjibini.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

@@ -1394,7 +1394,7 @@ MonoBehaviour:
   Controller: {fileID: 743897339}
   _hitLayerMask:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 1536
 --- !u!23 &1898346214
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1402,7 +1402,7 @@ MeshRenderer:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1898346211}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
